@@ -11,7 +11,10 @@ Advanced user config for awesome consist of a bunch of widgets, features and til
 
 My motivation behind making this setup was to make it possible so that everything can be controlled with either the keyboard or mouse.
 
-Currently the code is a bit messy and there is a lot of unused code but nonetheless it is by far the best workflow experince I have ever had.
+Currently the code is a bit messy and there is a lot of unused code but nonetheless it is very light weight.
+
+This is by far the best workflow experince I have ever had.
+
 
 
 ## Credits
