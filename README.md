@@ -3,12 +3,10 @@ Custom config for [Awesome WM](http://awesome.naquadah.org).
 
 This config is compatible with AwesomeWM version 4.0 and newer.
 
-<p align='center'>
-	<img alt='Screenshot of a dual monitor setup' src='./preview.png'/>
-</p>
-<p>
-The image aboves shows a dual monitor setup.
-</p>
+| Screenshots                                          |
+| ---                                                  |
+| ![Screenshot of a dual monitor setup](./preview.png) |
+| The image aboves shows a dual monitor setup.         |
 
 
 ## Description
