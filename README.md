@@ -5,7 +5,7 @@ This config is compatible with AwesomeWM version 4.0 and newer.
 
 | The image below shows a dual monitor setup.          |
 | ---                                                  |
-| ![Screenshot of a dual monitor setup](./preview.png) |
+| ![Screenshot of a dual monitor setup](./preview-1.png) |
 
 
 ## Description
@@ -16,6 +16,21 @@ My motivation behind making this setup was to make it possible so that everythin
 Currently the code is a bit messy and there is a lot of unused code but nonetheless it is very light weight.
 
 This is by far the best workflow experince I have ever had.
+
+
+## Screenshots
+
+| Left to right: tasklist menu, layout menu, control center menu. |
+| ---                                                             |
+| ![Screenshot of different menus](./preview-2.png)               |
+
+| A notification and open notification backlog menu.     |
+| ---                                                    |
+| ![Screenshot of notification](./preview-3.png)         |
+
+| Tiling control mode.                                  |
+| ---                                                   |
+| ![Screenshot of tiling control mode](./preview-4.png) |
 
 
 
