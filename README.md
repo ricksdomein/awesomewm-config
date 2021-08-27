@@ -32,6 +32,9 @@ This is by far the best workflow experince I have ever had.
 | ---                                                   |
 | ![Screenshot of tiling control mode](./preview-4.png) |
 
+| Floating control mode.                                  |
+| ---                                                     |
+| ![Screenshot of floating control mode](./preview-5.png) |
 
 
 ## Credits
