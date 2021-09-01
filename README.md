@@ -7,8 +7,10 @@ This config is compatible with AwesomeWM version 4.0 and newer.
 | ---                                                  |
 | ![Screenshot of a dual monitor setup](./preview-1.png) |
 
+
+
 <p align="center">
-  <img src="./resources.png" height="350">
+  <img src="./resources.png" height="400">
   <br>
   <sub>%CPU and %MEM usage.</sub>
 </p>
