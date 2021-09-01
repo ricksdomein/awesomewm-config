@@ -7,6 +7,8 @@ This config is compatible with AwesomeWM version 4.0 and newer.
 | ---                                                  |
 | ![Screenshot of a dual monitor setup](./preview-1.png) |
 
+![CPU and MEMORY usage](./resources.png)
+<sub>%CPU and %MEM usage.</sub>
 
 ## Description
 Advanced user config for awesome consist of a bunch of widgets, features and tiling schemes. This setup supports sharing tags between multiple monitors.
