@@ -7,7 +7,7 @@ This config is compatible with AwesomeWM version 4.0 and newer.
 | ---                                                  |
 | ![Screenshot of a dual monitor setup](./preview-1.png) |
 
-
+The following image show the current CPU and Memory usage in percentage for my old and heavily used GS70 2PE Stealth Pro laptop from around 2014.
 
 <p align="center">
   <img src="./resources.png" height="400">
