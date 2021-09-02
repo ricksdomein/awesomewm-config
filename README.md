@@ -43,6 +43,9 @@ This is by far the best workflow experince I have ever had.
 | ---                                                     |
 | ![Screenshot of floating control mode](./preview-5.png) |
 
+| Main hotkeys.                                  |
+| ---                                            |
+| ![Screenshot of main hotkeys](./preview-6.png) |
 
 ## Credits
 https://github.com/worron/awesome-config
