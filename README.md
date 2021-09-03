@@ -47,6 +47,15 @@ This is by far the best workflow experince I have ever had.
 | ---                                            |
 | ![Screenshot of main hotkeys](./preview-6.png) |
 
+
+## Unrelated
+
+Check out my ![dotfiles](https://github.com/ricksdomein/dotfiles) or other ![repositories](https://github.com/ricksdomein?tab=repositories) to mimic my workflow.
+
+| ![dmenu](https://github.com/ricksdomein/dmenu) integration. |
+| ---                                                         |
+| ![Screenshot of dmenu integration](./preview-7.png)         |
+
 ## Credits
 https://github.com/worron/awesome-config
 https://github.com/Drauthius/awesome-sharedtags
