@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="512pt"
+   viewBox="-43 0 512 512"
+   width="512pt"
+   version="1.1"
+   id="svg104"
+   sodipodi:docname="bell.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs108" />
+  <sodipodi:namedview
+     id="namedview106"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false" />
+  <path
+     id="path100"
+     d="m 213.33154,0 c -11.77342,0 -21.33105,9.5356563 -21.33105,21.33252 v 23.041992 c -12.68914,1.828119 -24.85395,5.282523 -36.31201,10.091308 l 207.44238,207.90674 c -0.27419,-3.61295 -0.46289,-7.24045 -0.46289,-10.89551 V 192 c 0,-75.07024 -55.76521,-137.215343 -127.99951,-147.625488 V 21.33252 C 234.66846,9.5356563 225.10888,0 213.33154,0 Z M 93.365234,103.30518 C 74.931953,128.10038 63.999512,158.77872 63.999512,192 v 59.47705 c 0,42.21871 -18.495151,82.06936 -50.944336,109.50293 -8.2968679,7.10546 -13.05468771875,17.43019 -13.05468771875,28.35205 0,20.58982 16.74562671875,37.33594 37.33154271875,37.33594 H 389.33252 c 7.57651,0 14.62241,-2.28072 20.51514,-6.17285 z" />
+  <path
+     d="m 213.33203,512 c 38.63672,0 70.95703,-27.54297 78.37891,-64 H 134.95312 c 7.42579,36.45703 39.7461,64 78.37891,64 z m 0,0"
+     id="path102" />
+  <path
+     style="display:inline;fill:#ffffff;fill-opacity:0.00132698;stroke:#000000;stroke-width:78.6138;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none"
+     d="M -11.9571,30.494632 440.0022,483.46761"
+     id="path391" />
+  <g
+     id="path391-6">
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:0.00132698;stroke-width:78.6138;stroke-linejoin:bevel;-inkscape-stroke:none"
+       d="M 32.464667,-13.383903 484.42397,439.58908"
+       id="path1362" />
+  </g>
+</svg>

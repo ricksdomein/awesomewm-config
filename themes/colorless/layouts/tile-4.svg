@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg283293"
+   sodipodi:docname="tile-4.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs283297" />
+  <sodipodi:namedview
+     id="namedview283295"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="17.3125"
+     inkscape:cx="13.025271"
+     inkscape:cy="23.768953"
+     inkscape:window-width="1918"
+     inkscape:window-height="1045"
+     inkscape:window-x="1920"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg283293" />
+  <g
+     fill="#a0a0a0"
+     id="g283291">
+    <path
+       id="path283285"
+       style="color:#000000;fill:#a0a0a0;-inkscape-stroke:none"
+       d="M 0 0 L 0 48 L 20 48 L 20 37.720703 L 7.0527344 37.720703 L 7.0527344 26.767578 L 7.5585938 25.730469 C 8.323858 24.159664 9.2667684 22.471537 10.390625 20.634766 C 11.514749 18.762226 12.743725 16.866052 14.076172 14.941406 C 15.413358 13.009916 16.824537 11.116126 18.306641 9.2617188 C 18.306641 9.2617188 18.308594 9.2597656 18.308594 9.2597656 C 18.869223 8.5450231 19.433339 7.8632493 20 7.1972656 L 20 0 L 0 0 z M 28 0 L 28 2.4941406 L 29.802734 2.4941406 L 30.8125 1.2050781 L 30.8125 2.4941406 L 32.373047 2.4941406 L 37.373047 2.4941406 L 37.373047 20 L 48 20 L 48 0 L 28 0 z M 40.947266 28 L 40.947266 37.720703 L 37.373047 37.720703 L 37.373047 45.505859 L 28 45.505859 L 28 48 L 48 48 L 48 28 L 40.947266 28 z " />
+  </g>
+  <g
+     aria-label="4"
+     id="text2159"
+     style="font-weight:bold;font-size:53.3333px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#a0a0a0;stroke:#000000;stroke-width:10">
+    <g
+       id="path61741">
+      <path
+         style="color:#000000;-inkscape-font-specification:'Ubuntu Mono Bold';stroke:none;-inkscape-stroke:none"
+         d="m 25.813332,15.706671 q -0.959999,1.226666 -1.973332,2.613332 -1.013333,1.386666 -2.026665,2.933332 -0.96,1.493332 -1.866666,3.039998 -0.906666,1.546666 -1.599999,3.039998 h 7.466662 z m 6.559996,-8.213328 v 19.839988 h 3.573332 v 5.386664 h -3.573332 v 7.786662 H 25.813332 V 32.719995 H 12.05334 v -4.799998 q 1.013333,-2.079998 2.613332,-4.69333 1.599999,-2.666665 3.519998,-5.439997 1.919999,-2.773331 4.053331,-5.439997 2.133332,-2.7199979 4.266664,-4.85333 z"
+         id="path61764" />
+    </g>
+  </g>
+</svg>
